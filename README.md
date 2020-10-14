@@ -1,4 +1,4 @@
-# Trinkwasser Laustiz 2020
+# Trinkwasser Lausitz 2020
 
 Website to visualize drinking water quality in region Laustiz. Inspired from opendata Heilbronn website [Trinkwasser](https://github.com/opendata-heilbronn/trinkwasser).
 
