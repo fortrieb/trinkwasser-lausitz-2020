@@ -1,6 +1,6 @@
 <script>
   import Wasserwerk from "./Wasserwerk.svelte";
-  export let name;
+  export let name, location;
 </script>
 
 <style global>
