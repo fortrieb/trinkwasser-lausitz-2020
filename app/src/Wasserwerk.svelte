@@ -1,5 +1,5 @@
 <script>
-  export let name;
+  export let name, location, haerte;
 </script>
 
 <article class="md:flex">
@@ -7,5 +7,12 @@
     <h2 class="uppercase tracking-wide text-sm text-indigo-600 font-bold">
       {name}
     </h2>
+    <ul>
+      <li>Location: {location}</li>
+      <li>Properties</li>
+      <ul>
+        <li>Haerte: {haerte}</li>
+      </ul>
+    </ul>
   </div>
 </article>
