@@ -36,6 +36,6 @@
     <a href="https://svelte.dev/tutorial">Svelte tutorial</a>
     to learn how to build Svelte apps.
   </p>
-  <Wasserwerk name={"Cottbus"} location={"Hans-von-Karl Strasse"} />
-  <Wasserwerk name={"Cottbus Sued"} location={"Am Stein"} />
+  <Wasserwerk name={"Cottbus"} location={"Wasserturm"} haerte={"4.33"} />
+  <Wasserwerk name={"Cottbus Sued"} location={"Brunnestrasse"} haerte={"5.0"} />
 </main>
