@@ -1,6 +1,6 @@
 <script>
   import Wasserwerk from "./Wasserwerk.svelte";
-  export let name;
+  export let name, location;
 </script>
 
 <style global>
@@ -36,6 +36,6 @@
     <a href="https://svelte.dev/tutorial">Svelte tutorial</a>
     to learn how to build Svelte apps.
   </p>
-  <Wasserwerk name={"Cottbus"} />
-  <Wasserwerk name={"Cottbus Sued"} />
+  <Wasserwerk name={"Cottbus"} location={"Hans-von-Karl Strasse"} />
+  <Wasserwerk name={"Cottbus Sued"} location={"Am Stein"} />
 </main>
